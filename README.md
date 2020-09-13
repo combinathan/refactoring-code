@@ -16,7 +16,7 @@ To view the website visit https://nathanmvu.github.io/refactoring-code/ or insta
 
 MIT License
 
-Copyright (c) [2020] [Nathan Vu]
+Copyright (c) 2020 Nathan Vu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
