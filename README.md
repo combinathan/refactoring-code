@@ -12,7 +12,7 @@ To install and view the project, you can access the Github repository at: https:
 
 To view the website visit https://nathanmvu.github.io/refactoring-code/ or install the package and open the index.html file in a browser.
 
-![screenshot](assets/images/screenshot.png/)
+![Screenshot](./assets/images/screenshot.png/ "Screenshot of Webpage")
 
 ## License
 
